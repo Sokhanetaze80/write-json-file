@@ -1,0 +1,1 @@
+javascript    transaction:      feeLimit: 1000000000     firstValid: 1644515200     lastValid: 1644515200     amount:        value: 30000000000000       currency: TRX          to: TR7NHqjeKQxGTCi8q8ZY4pL8ot
